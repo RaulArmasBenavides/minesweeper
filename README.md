@@ -1,0 +1,2 @@
+# minesweeper
+Desktop app minesweeper
